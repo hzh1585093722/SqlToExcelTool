@@ -1,0 +1,9 @@
+obj
+x64
+bin
+/Nupkgs
+/.vs
+/packages
+/Publish
+/Dotfuscated
+/Server.Bin
